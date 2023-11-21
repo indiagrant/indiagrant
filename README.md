@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm India 👋<br><br>I'm a fullstack developer:<br><br>- 🌍 Based in London, UK<br>- 🤓 Currently learning how to become a Full-Stack Web Dev with the School of Code!<br>- 👯 Looking to collaborate on any beginner projects.<br>- 📫 Contact me on either via Linkedin or email at indiaclaragrant@hotmail.com
+##Hi, I'm India 👋<br><br>I'm a fullstack developer:<br><br>- 🌍 Based in London, UK<br>- 🤓 Currently learning how to become a Full-Stack Web Dev with the School of Code!<br>- 👯 Looking to collaborate on any beginner projects.<br>- 📫 Contact me on either via Linkedin or email at indiaclaragrant@hotmail.com
 
 
 ## 🌐 Socials:
