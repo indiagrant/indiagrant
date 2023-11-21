@@ -2,7 +2,7 @@
 ## Hi, I'm India 👋<br><br>I'm a fullstack developer:<br><br>- 🌍 Based in London, UK<br>- 🤓 Currently learning how to become a Full-Stack Web Dev with the School of Code!<br>- 👯 Looking to collaborate on any beginner projects.<br>- 📫 Contact me via Linkedin
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/india-grant) 
 
 # 💻 Tech Stack:
