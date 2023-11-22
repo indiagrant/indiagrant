@@ -1,7 +1,8 @@
 ![Header](https://github.com/indiagrant/indiagrant/assets/60491066/41b5e14b-868a-4300-a95f-7bbf317814eb)
 
 ## 💫 About Me:
-### Hi, I'm India 👋<br><br>I'm a Full-Stack developer:<br><br>- 🌍 Based in London, UK<br>- 🤓 Currently learning how to become a Full-Stack Web Dev with the School of Code!<br>- 👯 Looking to collaborate on any beginner projects<br>- 📫 Contact me via Linkedin or visit my website www.indiagrant.netlify.app
+### Hi, I'm India 👋
+<p>I'm a Full-Stack developer:<br><br>- 🌍 Based in London, UK<br>- 🤓 Currently learning how to become a Full-Stack Web Dev with the School of Code!<br>- 👯 Looking to collaborate on any beginner projects<br>- 📫 Contact me via Linkedin or visit my website www.indiagrant.netlify.app</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/india-grant) 
