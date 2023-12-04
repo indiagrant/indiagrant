@@ -35,8 +35,8 @@ I am now continuing my software development journey and on the lookout for any n
 
 |               Project Name |                                                            |                                                          | Tech Stack                |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-| Bubble - Children's Mindfulness app | [Repo]| [Demo](/) | Next, React, ChakraUI, PostgreSQL, Express, Node     |
-|          BootRant - Journalling app | [Repo](https://github.com/SchoolOfCode/BootRant)      | [Demo](https://boot-rant-app.onrender.com/)         | JavaScript, PostgreSQL, Express, Node    |
+| Bubble - Children's Mindfulness app | [Repo]| [Demo] | Next, React, ChakraUI, PostgreSQL, Express, Node     |
+|          BootRant - Journalling app | [Repo](https://github.com/indiagrant/BootRant)     | [Demo](https://boot-rant-app.onrender.com/)         | JavaScript, PostgreSQL, Express, Node    |
 |          Blog Site | [Repo](https://github.com/indiagrant/blog-site)       | [Demo]     | Next, React, CSS     |
 |          React Portfolio | [Repo](https://github.com/indiagrant/React-Portfolio-Site)     | [Demo]       | Next, Tailwind      |
 
