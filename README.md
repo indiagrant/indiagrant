@@ -14,11 +14,7 @@ I am now continuing my software development journey and on the lookout for any n
 
   <div align="center"> 
   <a href="https://www.linkedin.com/in/india-grant/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="/" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank"></a>
-
-  <div>
-    (Portfolio Website still currently in development)
-  </div>
+   <a href="https://indiagrant.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank"></a>
   
   
  </div>
