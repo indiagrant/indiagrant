@@ -15,6 +15,10 @@ I am now continuing my software development journey and on the lookout for any n
   <div align="center"> 
   <a href="https://www.linkedin.com/in/india-grant/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="/" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank"></a>
+
+  <div>
+    (Portfolio Website still currently in development)
+  </div>
   
   
  </div>
@@ -35,10 +39,10 @@ I am now continuing my software development journey and on the lookout for any n
 
 |               Project Name |                                                            |                                                          | Tech Stack                |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-| Bubble - Children's Mindfulness app | [Repo]| [Demo] | Next, React, ChakraUI, PostgreSQL, Express, Node     |
-|          BootRant - Journalling app | [Repo](https://github.com/indiagrant/BootRant)     | [Demo](https://boot-rant-app.onrender.com/)         | JavaScript, PostgreSQL, Express, Node    |
-|          Blog Site | [Repo](https://github.com/indiagrant/blog-site)       | [Demo]     | Next, React, CSS     |
-|          React Portfolio | [Repo](https://github.com/indiagrant/React-Portfolio-Site)     | [Demo]       | Next, Tailwind      |
+| Bubble - Children's Mindfulness app | [Repo](https://github.com/indiagrant/bubble_app)| [Demo](https://bubble-app-two.vercel.app/) | Next.js, React, ChakraUI, PostgreSQL, Node.js     |
+|          BootRant - Journalling app | [Repo](https://github.com/indiagrant/BootRant)     | [Demo](https://boot-rant-app.onrender.com/)         | JavaScript, PostgreSQL, Express, Node.js    |
+|          Blog Site | [Repo](https://github.com/indiagrant/blog-site)       | [Demo - Coming Soon]     | Next.js, React, CSS     |
+|          Portfolio Website | [Repo](https://github.com/indiagrant/React-Portfolio-Site)     | [Demo](https://indiagrant.vercel.app/)       | Next.js, React, Tailwind      |
 
 
 </div>
