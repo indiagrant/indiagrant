@@ -5,7 +5,7 @@
 <div style='display:flex, flex-direction:column, justify-content:center'>
 
 <div style='display:flex'>
-After studying English Literature at University and jumping into my first job as a Civil Servant, I decided to make a change and turn my hobby into a career. I completed a coding bootcamp in late 2023 which allowed me to pair-program on several different projects and develop my skills as a full-stack developer. <br></br>
+After studying English Literature at University and jumping into my first job as a Civil Servant, I decided to make a change and turn my hobby into a career. I completed a coding bootcamp in late 2023 which allowed me to pair-programme on several different projects and develop my skills as a full-stack developer. <br></br>
 
 I am now continuing my software development journey and on the lookout for any new opportunities and challenges. So if you have a cool project that you want to chat about, don't hesitate to reach out.
 </div>
