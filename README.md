@@ -8,7 +8,7 @@
 <div style='display:flex'>
 After studying English Literature at University and jumping into my first job as a Civil Servant, I decided to make a change and turn my hobby into a career. I taught myself JS, HTML and CSS via free online courses and began building free wesbsites for non-profit organisations. I then completed a coding bootcamp in early 2024 which allowed me to pair-programme on several different projects and develop my skills as a full-stack engineer. <br></br>
 
-I joined Alchem Technologies as a Junior Software Engineer and have progressed to mid-level, currently continuing my learning and personal development and expanding my skillset.  
+I joined Alchem Technologies as a Junior Software Engineer and quickly progressed to mid-level, leading all frontend development. I have now joined Verilocation, working as part of the Feature team.
 </div>
 </div>
 <br>
