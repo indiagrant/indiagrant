@@ -36,10 +36,10 @@ I joined Alchem Technologies as a Junior Software Engineer and quickly progresse
 
 |               Project Name |                                                            |                                                          | Tech Stack                |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
+| Vitals - Team health app | [Repo](https://github.com/indiagrant/vitals)     | [Demo]()       | TypeScript, React 19, Tailwind, Vite, ShadCN      |
 | Bubble - Children's Mindfulness app | [Repo](https://github.com/indiagrant/bubble_app)| [Demo](https://bubble-app-two.vercel.app/) | Next.js, React, ChakraUI, PostgreSQL, Node.js     |
 |          BootRant - Journalling app | [Repo](https://github.com/indiagrant/BootRant)     | [Demo](https://boot-rant-app.onrender.com/)         | JavaScript, PostgreSQL, Express, Node.js    |
 |          Spin The Wheel | [Repo](https://github.com/indiagrant/Spin-The-Wheel)       | [Demo](https://spin-the-wheel-pi-sandy.vercel.app/)     | TypeScript, Angular, CSS     |
-|          Portfolio Website | [Repo](https://github.com/indiagrant/React-Portfolio-Site)     | [Demo](https://indiagrant.vercel.app/)       | Next.js, React, Tailwind      |
 
 
 </div>
